@@ -52,6 +52,7 @@ To get file-jump-spring, follow these steps:
 git clone https://github.com/2kabhishek/file-jump-spring
 cd file-jump-spring
 <install_command>
+mvnw spring-boot:run
 ```
 
 ## Using file-jump-spring
