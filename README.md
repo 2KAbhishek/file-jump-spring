@@ -20,29 +20,23 @@
 <a href="https://github.com/2KAbhishek/file-jump-spring/pulse">
 <img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/file-jump-spring?style=flat&color=e06c75&label="> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
-
-<figure>
-  <img src= "images/screenshot.png" alt="file-jump-spring Demo">
-  <br/>
-  <figcaption>file-jump-spring screenshot</figcaption>
-</figure>
+<h3>Backend for File Sharing Platform 🗂️📄</h3>
 
 </div>
 
 ## What is this
 
-file-jump-spring is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+file-jump-spring is the backend component for file-jump created using String
 
 ## Inspiration
 
-file-jump-spring was inspired by `<reason/idea>`.
+Needed a file sharing platform after Firefox send shut down, made this
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `java`
 
 ## Getting file-jump-spring
 
@@ -51,52 +45,21 @@ To get file-jump-spring, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/file-jump-spring
 cd file-jump-spring
-<install_command>
 mvnw spring-boot:run
-```
-
-## Using file-jump-spring
-
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
 ```
 
 ## How it was built
 
-file-jump-spring was built using `<tech/library>`
-
-## Challenges faced
-
-While building file-jump-spring the main challenges were `<issue/difficulty>`
+file-jump-spring was built using `neovim, spring`
 
 ## What I learned
 
-While building file-jump-spring I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
+- Getting to exlpore Spring after long, it was fun.
+- Integrated Spring with React frontend.
 
 ### To-Do
 
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+- [ ] Package with [file-jump-react](https://github.com/2kabhishek/file-jump-react) using docker-compose
 
 Hit the ⭐ button if you found this useful.
 
